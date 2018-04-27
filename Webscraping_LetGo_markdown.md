@@ -4,7 +4,7 @@
 ### Preamble
 Bicycle theft has been very prevalent these past few weeks as the weather in Toronto has been getting warmer. A friend was devastated hers was stolen, but she saw it posted on LetGo.com not long after. While she never had it recovered, what if we could scrape a listings website daily to see which user or location frequently sells bikes? 
 
-I attempted with Beautiful Soup - the standard webscraping package - but soon realized Javascript Links work differently. And although I soon realized this was a far-fetched idea (e.g. poster could create new accounts each time), the challenge of learning Selenium enticed me to carry this through.
+I attempted with Beautiful Soup - the standard webscraping package - but soon realized Javascript Links work differently. And although I soon realized trying to identify bike thieves with this method was a far-fetched idea (e.g. poster could create new accounts each time), the challenge of learning Selenium enticed me to carry this through.
 
 ### Introduction
 
