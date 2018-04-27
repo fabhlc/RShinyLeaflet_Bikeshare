@@ -136,7 +136,7 @@ with open(filename,'w', newline='', encoding='utf-8') as file:
 driver.quit()
 ```
 
-Let's take a look at our output.
+Let's take a look at the first five lines of our output.
 
 
 ```python
