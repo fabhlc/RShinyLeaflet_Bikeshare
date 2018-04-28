@@ -31,7 +31,7 @@ Next we initiate the webdriver (having downloaded chromedriver already) from its
 
 
 ```python
-driver = webdriver.Chrome(r'C:/Users/Fabienne/Py_Practice/chromedriver.exe')
+driver = webdriver.Chrome(r'C:/[your file path here]/chromedriver.exe')
 driver.get(url)
 time.sleep(2) #pauses for 2 seconds
 ```
