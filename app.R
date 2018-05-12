@@ -1,8 +1,7 @@
-#Goal: To map by Bikeshare Trip Frequency by Day of Week and Hour. 
-# template / tutorial: https://rstudio.github.io/leaflet/shiny.html
+#Goal: To map by Bikeshare Trip Frequency by Day of Week and Hour.
 # This code assumes the following variables are in the environment:
-#   - Q3 <- Q3-2016 Bike Share data from City of Toronto Open Data
-#   - stations_df <- data frame of all Bike Share stations and their lat/lon.
+#   - Q3 <- Q3-2016_BikeShare_LEAN.csv cleaned version of Bikeshare data from City of Toronto Open Data catalogue.
+#   - stations_df <- data frame of all Bike Share stations and their lat/lon (geocoded).
 
 
 library(shiny)
